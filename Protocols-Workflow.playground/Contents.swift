@@ -11,9 +11,9 @@ protocol Car {
 }
 
 class BMW : Car {
-    var speed = 200
-    
     var name = "BMW"
+    
+    var speed = 200
     
     var wheel = 4
     
